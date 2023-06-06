@@ -1,1 +1,1 @@
-"WELCOME"
+"WELCOME To the school"
